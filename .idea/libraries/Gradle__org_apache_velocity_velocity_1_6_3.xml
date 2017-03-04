@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.velocity:velocity:1.6.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.velocity/velocity/1.6.3/900c266665bc9a66c7d0150cf33ad2ff4bb3cef5/velocity-1.6.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.velocity/velocity/1.6.3/ad3af1477398c416a92cf10b4f9756e4aaf83d49/velocity-1.6.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

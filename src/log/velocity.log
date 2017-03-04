@@ -1,0 +1,3 @@
+2017-02-11 18:08:05,715 - ResourceManager : unable to find resource 'src/main/resources/velocity/gitlab_blog.vm' in any resource loader.
+2017-02-11 18:08:55,824 - ResourceManager : unable to find resource '/src/main/resources/velocity/gitlab_blog.vm' in any resource loader.
+2017-02-11 18:09:48,453 - ResourceManager : unable to find resource '/velocity/gitlab_blog.vm' in any resource loader.
